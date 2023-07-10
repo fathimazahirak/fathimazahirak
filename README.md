@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+MAIN PROJECT : TRACKERJET - It is an ERP application to track our overall sales, training, fee collection, employee and student management to increase transparency among employers, employees, and interns.
+Responsibilities - Manual and Automation functional testing had done.
+Link: https://docs.google.com/spreadsheets/d/15BJJA30-quisASbXXD1uBSPeAs05DatFz6bfXUVZzlU/edit#gid=530726531
+
+
+MINI PROJECT: OrangeHRM Demo - OrangeHRM Open Source is a free open source HR software developed by OrangeHRM, a software company based in Secaucus, New Jersey.
+On OrangeHRM demo dashboard you will also notice how multiple modules and unified into a single display. The user friendly interface has real-time trend graphs that show a list of pending HR tasks, a quick launch panel and reporting.
+The admin demo will walk you through the available features and options to manage your personnel.
+Link: https://docs.google.com/spreadsheets/d/1vu0KZN3kRO07WYSaGszO2s2yl3-4LU-sDnixsIktY5M/edit#gid=427409424
